@@ -1,0 +1,11 @@
+C:\Users\Damien\Downloads\School\Assignments\WebApi1\WebApi1\bin\Debug\netcoreapp2.0\WebApi1.deps.json
+C:\Users\Damien\Downloads\School\Assignments\WebApi1\WebApi1\bin\Debug\netcoreapp2.0\WebApi1.runtimeconfig.json
+C:\Users\Damien\Downloads\School\Assignments\WebApi1\WebApi1\bin\Debug\netcoreapp2.0\WebApi1.runtimeconfig.dev.json
+C:\Users\Damien\Downloads\School\Assignments\WebApi1\WebApi1\bin\Debug\netcoreapp2.0\WebApi1.dll
+C:\Users\Damien\Downloads\School\Assignments\WebApi1\WebApi1\bin\Debug\netcoreapp2.0\WebApi1.pdb
+C:\Users\Damien\Downloads\School\Assignments\WebApi1\WebApi1\obj\Debug\netcoreapp2.0\WebApi1.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Downloads\School\Assignments\WebApi1\WebApi1\obj\Debug\netcoreapp2.0\WebApi1.csproj.CoreCompileInputs.cache
+C:\Users\Damien\Downloads\School\Assignments\WebApi1\WebApi1\obj\Debug\netcoreapp2.0\WebApi1.AssemblyInfoInputs.cache
+C:\Users\Damien\Downloads\School\Assignments\WebApi1\WebApi1\obj\Debug\netcoreapp2.0\WebApi1.AssemblyInfo.cs
+C:\Users\Damien\Downloads\School\Assignments\WebApi1\WebApi1\obj\Debug\netcoreapp2.0\WebApi1.dll
+C:\Users\Damien\Downloads\School\Assignments\WebApi1\WebApi1\obj\Debug\netcoreapp2.0\WebApi1.pdb
