@@ -1,0 +1,11 @@
+C:\Users\Damien\Downloads\AvanceradWebbUtv\.NET-Core2.0-Practice\WebApi2\WebApi2\bin\Debug\netcoreapp2.0\WebApi2.deps.json
+C:\Users\Damien\Downloads\AvanceradWebbUtv\.NET-Core2.0-Practice\WebApi2\WebApi2\bin\Debug\netcoreapp2.0\WebApi2.runtimeconfig.json
+C:\Users\Damien\Downloads\AvanceradWebbUtv\.NET-Core2.0-Practice\WebApi2\WebApi2\bin\Debug\netcoreapp2.0\WebApi2.runtimeconfig.dev.json
+C:\Users\Damien\Downloads\AvanceradWebbUtv\.NET-Core2.0-Practice\WebApi2\WebApi2\bin\Debug\netcoreapp2.0\WebApi2.dll
+C:\Users\Damien\Downloads\AvanceradWebbUtv\.NET-Core2.0-Practice\WebApi2\WebApi2\bin\Debug\netcoreapp2.0\WebApi2.pdb
+C:\Users\Damien\Downloads\AvanceradWebbUtv\.NET-Core2.0-Practice\WebApi2\WebApi2\obj\Debug\netcoreapp2.0\WebApi2.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Downloads\AvanceradWebbUtv\.NET-Core2.0-Practice\WebApi2\WebApi2\obj\Debug\netcoreapp2.0\WebApi2.csproj.CoreCompileInputs.cache
+C:\Users\Damien\Downloads\AvanceradWebbUtv\.NET-Core2.0-Practice\WebApi2\WebApi2\obj\Debug\netcoreapp2.0\WebApi2.AssemblyInfoInputs.cache
+C:\Users\Damien\Downloads\AvanceradWebbUtv\.NET-Core2.0-Practice\WebApi2\WebApi2\obj\Debug\netcoreapp2.0\WebApi2.AssemblyInfo.cs
+C:\Users\Damien\Downloads\AvanceradWebbUtv\.NET-Core2.0-Practice\WebApi2\WebApi2\obj\Debug\netcoreapp2.0\WebApi2.dll
+C:\Users\Damien\Downloads\AvanceradWebbUtv\.NET-Core2.0-Practice\WebApi2\WebApi2\obj\Debug\netcoreapp2.0\WebApi2.pdb

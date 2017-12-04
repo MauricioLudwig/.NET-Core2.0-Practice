@@ -2,9 +2,78 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title></title>
+    <title>Web Api 2</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 </head>
 <body>
+
+    <div class="container">
+
+        <h1 class="text-center mt-5 mb-5">Web Api 2</h1>
+
+        <div class="row">
+
+            <!-- Frukost -->
+            <div class="col-lg-3">
+                <p class="lead">Frukost</p>
+                <form action="api/values/breakfast" method="get">
+                    <!--<div class="input-group">
+                        <input type="text" class="form-control" name="breakfast" placeholder="Frukost..." aria-label="Search for...">
+                        <span class="input-group-btn">
+                            <button class="btn btn-secondary" type="submit">Search</button>
+                        </span>
+                    </div>-->
+                    <div class="input-group">
+                        <select class="form-control" name="breakfast">
+                            <option value="egg">Egg</option>
+                            <option value="mango">Mango</option>
+                            <option value="void">Void</option>
+                        </select>
+                        <span class="input-group-btn">
+                            <button class="btn btn-secondary" type="submit">Search</button>
+                        </span>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Square -->
+            <div class="col-lg-3">
+                <p class="lead">Square</p>
+                <form action="api/values/square" method="get">
+                    <div class="input-group">
+                        <input type="number" class="form-control" name="number" placeholder="Square..." aria-label="Search for...">
+                        <span class="input-group-btn">
+                            <button class="btn btn-secondary" type="submit">Go!</button>
+                        </span>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Range of Numbers -->
+            <div class="col-lg-3">
+                <p class="lead">Range of Numbers</p>
+                <form action="api/values/range" method="get">
+                    <div class="input-group">
+                        <input name="fromNumber" type="text" class="form-control" placeholder="From" aria-label="Username" aria-describedby="basic-addon1">
+                    </div>
+                    <div class="input-group">
+                        <input name="toNumber" type="text" class="form-control" placeholder="To" aria-label="Username" aria-describedby="basic-addon1">
+                    </div>
+                    <button class="btn btn-secondary btn-block">Print Range</button>
+                </form>
+            </div>
+
+            <!-- Background Color -->
+            <div class="col-lg-3">
+                <p class="lead">Color Picker</p>
+                <form action="api/values/backgroundcolor" method="get">
+                    <input type="color" name="backgroundColor" value="#00ff00" />
+                    <button class="btn btn-secondary btn-block" type="submit">Change Background</button>
+                </form>
+            </div>
+
+        </div>
+    </div>
 
 </body>
 </html>
